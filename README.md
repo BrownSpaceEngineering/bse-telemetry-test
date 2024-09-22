@@ -10,4 +10,4 @@ Satellite Transmitter Choices (from the ISS):
     Mode V/V FM (crew R2+3)
     Mode V/V FM (crew R1)
 
-Parse for data about location, altitude, timestamps
+Parse for data about location, altitude, timestamp, satellite ID
