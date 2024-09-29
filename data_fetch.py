@@ -11,5 +11,3 @@ for i in range(len(result.json())):
         pertinent_data[i]["norad_cat_id"] = result.json()[i]["norad_cat_id"]
         pertinent_data[i]["vetted_datetime"] = result.json()[i]["vetted_datetime"]
 print(json.dumps(pertinent_data, indent=4))
-
-
